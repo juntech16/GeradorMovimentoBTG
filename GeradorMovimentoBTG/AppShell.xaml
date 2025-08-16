@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="GeradorMovimentoBTG.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:GeradorMovimentoBTG"
+    xmlns:views="clr-namespace:GeradorMovimentoBTG.Views"
+    Title="Simulador de Movimento Browniano">
+
+    <ShellContent
+        Title="Simulador de Movimento Browniano"
+        ContentTemplate="{DataTemplate views:BrownianMotionView}"
+        Route="BrownianMotionView" />
+
+</Shell>
