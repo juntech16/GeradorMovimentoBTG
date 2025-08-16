@@ -24,7 +24,7 @@ Uma aplicação .NET MAUI para Windows que simula e visualiza o movimento browni
 
 ## Screenshot da aplicação
 
-![Screenshot da aplicação](screenshot.png)
+![Screenshot da aplicação](screenshots/screenshot.png)
 
 ## Arquitetura
 
